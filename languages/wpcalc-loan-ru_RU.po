@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wpcalc_Loan v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-11-28 09:34+0200\n"
+"Last-Translator: Dimy4\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n"
+"+9)%10>3 ? 2 : 1;\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ wpcalc-loan
+msgid ""
+"Thank you for installing the plugin WpCalc Loan. For any questions, please "
+"contact"
+msgstr ""
+"Благодарим за установку плагина WpCalc Loan. По всем вопросам обращайтесь"
+
+# @ wpcalc-loan
+msgid "To insert a calculator on a page or post using shortcode"
+msgstr "Для вставки калькулятора на страницу или в запись используйте шорткод"
+
+# @ wpcalc-loan
+msgid "Calculators"
+msgstr "Калькуляторы"
+
+# @ wpcalc-loan
+msgid "Loan calculator"
+msgstr "Кредитный калькулятор"
+
+# @ wpcalc-loan
+msgid "Mortgage Calculator"
+msgstr "Ипотечный калькулятор"
+
+# @ wpcalc-loan
+msgid "Auto loan calculator"
+msgstr "Калькулятор автокредита"
+
+# @ wpcalc-loan
+msgid "Amount of credit"
+msgstr "Сумма кредита"
+
+# @ wpcalc-loan
+msgid "Credit term"
+msgstr "Срок кредита"
+
+# @ wpcalc-loan
+msgid "months"
+msgstr "месяцев"
+
+# @ wpcalc-loan
+msgid "years"
+msgstr "лет"
+
+# @ wpcalc-loan
+msgid "Interest rate"
+msgstr "Процентная ставка"
+
+# @ wpcalc-loan
+msgid "per month"
+msgstr "в месяц"
+
+# @ wpcalc-loan
+msgid "in year"
+msgstr "в год"
+
+# @ wpcalc-loan
+msgid "Scheme of repayment"
+msgstr "Схема погашения"
+
+# @ wpcalc-loan
+msgid "Annuity"
+msgstr "Аннуитет"
+
+# @ wpcalc-loan
+msgid "Classical"
+msgstr "Классическая"
+
+# @ wpcalc-loan
+msgid "Single fee"
+msgstr "Единоразовая комиссия"
+
+# @ wpcalc-loan
+msgid "Monthly fee"
+msgstr "Ежемесячная комиссия"
+
+# @ wpcalc-loan
+msgid "Yearly fee"
+msgstr "Ежегодная комиссия"
+
+# @ wpcalc-loan
+msgid "Amount"
+msgstr "Сумма"
+
+# @ wpcalc-loan
+msgid "Calculate"
+msgstr "Рассчитать"
+
+# @ wpcalc-loan
+msgid "Monthly loan payment"
+msgstr "Ежемесячный платеж по кредиту"
+
+# @ wpcalc-loan
+msgid "Overpayment in monetary"
+msgstr "Переплата в денежном выражении"
+
+# @ wpcalc-loan
+msgid "including"
+msgstr "в том числе"
+
+# @ wpcalc-loan
+msgid "Interest on loan"
+msgstr "Проценты по кредиту"
+
+# @ wpcalc-loan
+msgid "Sum Single fee"
+msgstr "Единоразовые комиссия"
+
+# @ wpcalc-loan
+msgid "Sum Monthly fee"
+msgstr "Ежемесячные комиссии"
+
+# @ wpcalc-loan
+msgid "Sum Yearly fee"
+msgstr "Ежегодные платежи"
+
+# @ wpcalc-loan
+msgid "Overpayment Percentage"
+msgstr "Переплата в процентах"
+
+# @ wpcalc-loan
+msgid "The total amount to be returned"
+msgstr "Общая сумма к возврату"
+
+# @ wpcalc-loan
+msgid "Build schedule"
+msgstr "Построить график"
+
+# @ wpcalc-loan
+msgid "Print"
+msgstr "Печать"
+
+# @ wpcalc-loan
+msgid "First payment"
+msgstr "Первый платеж"
+
+# @ wpcalc-loan
+msgid "Monthly payment"
+msgstr "Ежемесячный платеж"
+
+# @ wpcalc-loan
+msgid "Period"
+msgstr "Период"
+
+# @ wpcalc-loan
+msgid "Payment"
+msgstr "Платеж"
+
+# @ wpcalc-loan
+msgid "Principal Paid"
+msgstr "Погашение кредита"
+
+# @ wpcalc-loan
+msgid "Interest Paid"
+msgstr "Погашение процентов"
+
+# @ wpcalc-loan
+msgid "Balance"
+msgstr "Остаток задолженности"
+
+# @ wpcalc-loan
+msgid "Total"
+msgstr "Всего"
+
+# @ wpcalc-loan
+msgid " months."
+msgstr " мес."
+
+# @ wpcalc-loan
+msgid " year"
+msgstr " год"
+
+# @ wpcalc-loan
+msgid "Cost of apartments"
+msgstr "Стоимость квартиры"
+
+# @ wpcalc-loan
+msgid "Down payment"
+msgstr "Первоначальный взнос"
+
+# @ wpcalc-loan
+msgid "Сost of car"
+msgstr "Стоимость автомобиля"
+
+# @ wpcalc-loan
+msgid "Page loan calculator"
+msgstr "Страница Кредитных калькуляторов"
+
+# @ wpcalc-loan
+msgid "Settings for"
+msgstr "Настройки для"
+
+# @ wpcalc-loan
+msgid "Features of the paid version can be viewed here"
+msgstr "Возможности платной версии можете посмотреть здесь"
